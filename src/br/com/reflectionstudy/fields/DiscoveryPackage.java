@@ -2,7 +2,6 @@ package br.com.reflectionstudy.fields;
 
 import br.com.reflectionstudy.model.Goat;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DiscoveryPackage {
