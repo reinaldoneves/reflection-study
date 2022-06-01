@@ -1,14 +1,11 @@
 package br.com.reflectionstudy.model;
 
 import br.com.reflectionstudy.interfaces.Locomotion;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Getter
 @Setter
-@NoArgsConstructor
 public class Goat extends Animal implements Locomotion {
 
     public Goat(String goat) {

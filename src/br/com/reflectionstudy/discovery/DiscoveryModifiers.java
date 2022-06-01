@@ -1,4 +1,4 @@
-package br.com.reflectionstudy.fields;
+package br.com.reflectionstudy.discovery;
 
 import org.junit.jupiter.api.Test;
 import java.lang.reflect.Modifier;
