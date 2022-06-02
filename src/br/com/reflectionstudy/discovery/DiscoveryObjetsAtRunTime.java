@@ -2,7 +2,6 @@ package br.com.reflectionstudy.discovery;
 
 import br.com.reflectionstudy.model.Bird;
 import org.junit.jupiter.api.Test;
-
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
