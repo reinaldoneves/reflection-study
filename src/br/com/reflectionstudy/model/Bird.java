@@ -3,7 +3,6 @@ package br.com.reflectionstudy.model;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter
 @Setter
 public class Bird extends Animal {
     private boolean walks;
@@ -32,7 +31,7 @@ public class Bird extends Animal {
 
     @Override
     protected String getSound() {
-        return null;
+        return "Bentivi";
     }
 
     // standard setters and overridden methods
